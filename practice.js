@@ -25,4 +25,4 @@ if (!isNaN(seconds) && seconds > 0) {
 else {
     console.log("Please enter a valid number of seconds.");
 }
-// this project is not using date module , 
+// this file is not using date module , rough work 

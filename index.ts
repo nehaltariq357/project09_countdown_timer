@@ -1,6 +1,6 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import { differenceInSeconds } from "date-fns";
-
 const { timer } = await inquirer.prompt([
   {
     name: "timer",
